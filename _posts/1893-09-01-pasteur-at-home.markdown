@@ -1,5 +1,6 @@
 ---
 layout: post
+slug: "1893-09-01-pasteur-at-home"
 title: "PASTEUR AT HOME."
 subtitle: "WITH AN ACCOUNT OF THE WORK DONE AT THE PASTEUR INSTITUTE IN PARIS."
 author: "Ida M. Tarbell"
@@ -15,7 +16,7 @@ The cab left the Rue Vaugirard, crossed a superb boulevard, entered the Rue Duto
 
 On the grass plot in front of the stately marble steps stood a small bronze statue mounted on a high granite pedestal. It represented a boy of twelve or fourteen years in a life-and-death struggle with a mad dog. He has succeeded in fastening about the neck of the furious animal the thong of a long whip. He is strangling him. Beside the boy, or the ground, is a wooden shoe. With it he will beat the beast to death. The statue tells the story of one of the earliest subjects treated by M. Pasteur for hydrophobia, Jean-Baptiste Jupille, a shepherd lad, who, seeing a group of children attacked by a mad dog, throttled the animal and beat it dead with his sabot. He carried away a dozen or more bites from the conflict, was sent to Paris, inoculated, and cured. A fitting subject to place before the doorway of the Pasteur Institute!
 
-THE STATUE OF JUPILLE.
+![THE STATUE OF JUPILLE](/img/{{ page.slug }}/illus335b.png)
 
 Statue, façade and lawn are new. The bricks have not yet lost their glare. One can almost see the dust still on the stone. The bronze has not lost its fresh lustre. Even the lawn has the unevenness of new sod, the horse-chestnut trees are small, the ivy has not had time to climb far up the walls.
 
