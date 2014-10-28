@@ -4,3 +4,6 @@ baseurl: ""
 url: "http://muckrackers.github.io/ida-tarbell/" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 markdown: kramdown
+
+prose:
+  media: "img"
