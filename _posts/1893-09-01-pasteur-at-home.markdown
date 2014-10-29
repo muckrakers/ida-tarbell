@@ -28,7 +28,7 @@ Narrow winding stairs lead up to a suite of lofty rooms, furnished with solid, d
 
 This is a great man, one feels instinctively—a man so great that he despises notoriety—and a journalist. It is reassuring.
 
-THE PASTEUR INSTITUTE.
+![THE PASTEUR INSTITUTE](/ida-tarbell/img/{{ page.slug }}/illus336.png)
 
 The great master does not look to be seventy years of age as he sits behind his desk, his elbow on the table, his hand supporting his head. His hair and beard are still iron-gray; the hair is concealed largely by the silk skullcap he always wears, but the beard is abundant. The eyes are as penetrating, as full of ardor, as ever. It is only when he speaks or moves that one sees the ravages of the paralysis which overtook him twenty-five years ago, after his terrible three years of labor in the little house at Alais, investigating the disease of the silk-worm. The whole left side has been since then nearly useless. His speech is hesitating, his motion difficult, but in spite of his feebleness he spares no pains to interest his guest. One talks with M. Pasteur with the ease and naturalness of the fireside.
 
@@ -45,7 +45,7 @@ M. Pasteur was present and made a speech. In the course of it he referred to his
 
 The villagers of Dôle have never forgotten the scene. When the great Pasteur jubilee was celebrated they sent up their mayor, commissioned to present the picture of the early home, together with a facsimile of the register of M. Pasteur’s birth. That they were not mistaken in thinking that he would be pleased, it is easy to see as he stands before me, eying the humble house with tender pride.
 
-THE LODGE.
+![THE LODGE](/ida-tarbell/img/{{ page.slug }}/illus337.png)
 
 “Have you no picture of yourself taken in your boyhood at Dôle?”
 
@@ -61,7 +61,7 @@ The plans for investigation which filled the head of the young man who sits up s
 
 Beside the hero of the studies in crystallography M. Pasteur places his latest picture. It lacks in youthfulness, but it has gained in ripeness. This photograph has much of the vigor and the alertness one sees in the splendid bust by Paul Dubois displayed 330 in the Salon of 1880, and now in a gallery at Copenhagen. This bust is the most satisfactory portrait of M. Pasteur ever made, unless it be the painting by Edelfelt displayed in the Salon of 1886. In the same Salon appeared Bonnat’s portrait of M. Pasteur and his granddaughter.
 
-M. PASTEUR IN HIS SALON.
+![M. PASTEUR IN HIS SALON](/ida-tarbell/img/{{ page.slug }}/illus338.jpg)
 
 As I look at M. Pasteur in his library, however, I see only the old model of Bonnat. I have difficulty in believing, indeed, as I watch him bending smilingly over the old album, now and then laughing aloud at the discovery of some forgotten picture, that this man, over fifty years ago, for the sake of an education, made himself a jack-of-all-trades in the college of Besançon, and was aroused every morning at four o’clock with the night-watchman’s cry: “Come, Pasteur, chase the demon of laziness.” It is difficult to picture him in the intoxication of scientific enthusiasm and discovery, sacrificing health, leisure, pleasure, to the passion of learning which had taken possession of him.
 
@@ -79,7 +79,7 @@ We rise and go into the long hall. At the opposite end from the library two larg
 
 “Take care, it is dark. Don’t slip. Take care.” On the last step I stopped and looked up. The two friendly faces were still looking down.
 
-THE HOUSE AT DÔLE, WHERE M. PASTEUR WAS BORN.
+![THE HOUSE AT DÔLE, WHERE M. PASTEUR WAS BORN](/ida-tarbell/img/{{ page.slug }}/illus339.png)
 
 I had come to see the destroyer of the theory of spontaneous generation, the demonstrator of the microbe origin of disease, the conqueror of hydrophobia. I had found something greater, perhaps, than them all—a perfectly gentle soul.
 
@@ -98,7 +98,7 @@ Now M. Pasteur has discovered that it is possible to so treat a microbe that its
 
 Thus, in vaccinating against rabies, the patient is treated first with a weak virus; this is followed by one more powerful, and so on, until at the end a highly “exalted” one is injected safely.
 
-M. PASTEUR AT THIRTY.
+![M. PASTEUR AT THIRTY](/ida-tarbell/img/{{ page.slug }}/illus341.jpg)
 
 It is this treatment which is practised daily at the Pasteur Institute, in the inoculation room where I found myself.
 
@@ -108,7 +108,7 @@ The simplicity of the operation seemed out of proportion to the horror of the di
 
 On the second floor of the building I found the office and private laboratory 333 of the under-director of the Pasteur Institute, a man whose researches in connection with Pasteur, whose devotion in the cholera mission in Egypt in 1883, and whose independent investigations on diphtheria, have made him famous in the medical world. The office was small, and it had something of the attraction of a curio shop. There was none of the precision of the man of small affairs here. It was the confusion of the man of big affairs, who cannot endure to have his things meddled with. Over a table where culture tubes, blow-pipes, virus glasses and bottles filled with suspicious-looking fluids were scattered promiscuously around a valuable microscope, hung a gem of a painting—a dashing charge of cavalry. Beside a case of books, and partly concealing a fine portrait of Pasteur, hung the gray-white laboratory blouses of M. Roux. Under an exquisite etching askew in a corner stood a cage of brown-and-white guinea-pigs, martyrs to science, probably.
 
-AT THE JUBILEE OF M. PASTEUR. THE PRESIDENT OF THE REPUBLIC WELCOMING M. PASTEUR IN THE AMPHITHEATRE OF THE OLD SORBONNE.
+![AT THE JUBILEE OF M. PASTEUR. THE PRESIDENT OF THE REPUBLIC WELCOMING M. PASTEUR IN THE AMPHITHEATRE OF THE OLD SORBONNE](/ida-tarbell/img/{{ page.slug }}/illus342.png)
 
 Curiosity was cut short, for a quick step was heard in the outer room, and Doctor Roux entered. A slight figure, bent a little from a life spent over books, tubes and microscopes, but tingling to the finger-tips with nervous energy; a face a little pale, but fresh in color; brown hair and beard, glowing brown eyes, perhaps forty years—such is this eminent associate of Pasteur. As he runs over the pile of letters cut and awaiting him, he talks.
 
@@ -123,13 +123,13 @@ Curiosity was cut short, for a quick step was heard in the outer room, and Docto
 PORTRAITS OF M. PASTEUR.
 -----------------------
 
-BY LAFON.
+![BY LAFON](/ida-tarbell/img/{{ page.slug }}/illus344a.jpg)
 
-BUST BY P. DUBOIS.
+![BUST BY P. DUBOIS](/ida-tarbell/img/{{ page.slug }}/illus344b.png)
 
-BY BONNAT.
+![BY BONNAT](/ida-tarbell/img/{{ page.slug }}/illus345a.jpg)
 
-BY A. EDELFALT.
+![BY A. EDELFALT](/ida-tarbell/img/{{ page.slug }}/illus345b.jpg)
 
 The newness of the Pasteur doctrines and treatment is, indeed, one of the most striking things about the Institute. One rubs his eyes to remember that, thirteen years ago, very few people admitted the rôle of bacteria in the world, and that those who did admit their existence were very much at sea about what to do with them.
 
@@ -162,7 +162,6 @@ The doctor pursed up his mouth.
 “Very true, and so have perhaps a hundred others tried its effects. But that proves nothing.”
 
 There is a self-repression about these severe statements which has something of the heroic in it. Who would be so glad to announce absolute safeguards against diphtheria and cholera as this man who has risked his life to find them? Yet, until he is sure, he will not even say “hope.”
-336
 
 I remember the words of Pasteur himself: “To believe that one has found an important scientific fact, to be in a fever to announce it, to compel one’s self for days, weeks, sometimes years, to be silent, to force one’s self to destroy his own experiments and to announce nothing until he has exhausted all contrary hypotheses—that is hard.”
 
@@ -172,7 +171,7 @@ It is hard, but it is one of the strongest elements in the Pasteur spirit of sci
 
 “The entire lower floor is devoted to practical work. There are performed the inoculations for hydrophobia on an average of some seventy a day. The practical department is not, however, confined to the treatment of hydrophobia. There are prepared the vaccines for all those diseases of animals which M. Pasteur has proved can be cured by inoculation, such as chicken cholera, splenic fever, and rouget of swine.
 
-A GROUP OF PATIENTS.
+![A GROUP OF PATIENTS](/ida-tarbell/img/{{ page.slug }}/illus346.png)
 
 “Quantities of virus are sold constantly to farmers for vaccinating their stock. It is these sales which help support the institution. It is an example of science living by science.
 
@@ -190,7 +189,7 @@ The doctor rose and drew out from the mass of pamphlets and papers on his table 
 
 Doctor Roux ran his finger down the pages. “Here is one, Doctor Orchinard of New Orleans. Here another, Doctor Tabadie of New York; and then there is Kenyoun of the 337 United States Marine Service. But there have been more students in the institution from South America than from North.
 
-THE LIBRARY.
+![THE LIBRARY](/ida-tarbell/img/{{ page.slug }}/illus347.png)
 
 “The department of original work is in the third story, and is under Doctor Metchnikoff, who is, you know, a Russian who has established himself here in order to devote himself to scientific investigation. Doctor Metchnikoff is aided by his wife, who acts as preparateur. She is an assistant of great skill and delicacy. He receives no salary for his labor. There are, in fact, three of the leading members of our faculty who receive no salary—M. Pasteur himself, M. Ducloux, and M. Metchnikoff. They have resigned the award they deserve because of our insufficient income.”
 
@@ -200,7 +199,7 @@ THE LIBRARY.
 
 “The most surprising feature about it is, that in the case of almost every institution copied after us, and there are some eighteen or twenty of them in various parts of the world, the income is much larger than ours. At Berlin and St. Petersburg the incomes are four or five times as large as ours, and, excepting Berlin, we are the only Pasteur Institute doing practical work. It is the old story,” said the doctor resignedly, “one sows and another reaps.”
 
-M. ROUX.
+![M. ROUX](/ida-tarbell/img/{{ page.slug }}/illus348a.jpg)
 
 There is certainly injustice and short-sightedness in such a state of things. The investigations of Pasteur have taken too heavy a bundle from the load of horrors which humanity carries, to be allowed to be limited for lack of money:
 
@@ -212,7 +211,7 @@ The doctor’s confidences were cut short by an imperative summons from without.
 
 “Take a stroll through the building,” advised he as he said good-by. I followed his advice.
 
-DOSING THE VIRUS.
+![DOSING THE VIRUS](/ida-tarbell/img/{{ page.slug }}/illus348b.jpg)
 
 From the library one naturally passes to the laboratories. They open from the long halls in numbers. One wonders how so much room can be utilized, but none seems to be going to waste. In each some step of the microbic process is going on. Here is a doctor inoculating a rabbit with the poison of a mad dog sent to the Institute only the day before. The little animal lies on the table insensible, chloroformed, while with the sharp-toothed little trephine the operator makes a tiny hole in its skull, lays bare the brain, and inserts the virus. By the time the aperture is closed Brer Rabbit is sitting up, looking about, none the worse for his experience, 339 save a bald spot on his forehead, a tiny tin tag covered with hieroglyphics hanging from his ear. Two minutes later he was nibbling a carrot; fifteen days later he died “mad as a March hare.”
 
@@ -220,13 +219,13 @@ It is not only rabbits which undergo this operation. Guinea-pigs, chickens, mice
 
 In another room an experimenter is dissecting a rabbit which has died of rabies, and from whose spinal cord he expects to get material for vaccinal virus.
 
-DR. METCHNIKOFF IN HIS LABORATORY.
+![DR. METCHNIKOFF IN HIS LABORATORY](/ida-tarbell/img/{{ page.slug }}/illus349.jpg)
 
 In a small dark room, whose temperature is never allowed to vary, which is never swept nor dusted for fear of arousing tranquil microbes, and whose door is never opened except when absolutely necessary, are arranged rows of drying bottles, in which hang bits of the marrow. These bottles are marked with the degree of violence of the rabies from which the animal died, and with the date when the marrow was put up to dry.
 
 Here, attendants are preparing the veal broth and the gelatines in which the infected marrows will be cultivated.
 
-FILLING THE SYRINGES.
+![FILLING THE SYRINGES](/ida-tarbell/img/{{ page.slug }}/illus350a.jpg)
 
 Thus as one goes from room to room he can follow the whole method of successive cultures, that method which is “the key-stone of the arch, and without which there could be no vigorous demonstration of the Pasteur method.”
 
@@ -241,3 +240,5 @@ Evidently, too, they have not forgotten the words their master spoke on the day 
 “Cultivate the critical spirit. Left to itself it neither awakens ideas nor stimulates to great deeds, but without it all is lost.”
 
 As one goes from room to room, and talks with one and another of the busy, courteous savants, he realizes finally that it is here that Pasteur the scientist is to be found. The labors that made the great savant famous are all summed up here. Here his methods are at work, here is his spirit alive in the men who have best comprehended him, and whom he has been able most deeply to inspire. It is a great thing to achieve. It is a greater thing to inspire others to achieve. Louis Pasteur has done both.
+
+![THE RABBITS' QUARTERS](/ida-tarbell/img/{{ page.slug }}/illus350b.jpg)
