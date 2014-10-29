@@ -1,7 +1,7 @@
 title: Ida Tarbell
 description: "A free (but incomplete) archive of Ida Tarbell's writing"
-baseurl: ""
-url: "http://muckrackers.github.io/ida-tarbell/" # the base hostname & protocol for your site
+baseurl: "/ida-tarbell"
+url: "http://muckrackers.github.io"
 permalink: /:year/:month/:day/:title/
 markdown: kramdown
 
