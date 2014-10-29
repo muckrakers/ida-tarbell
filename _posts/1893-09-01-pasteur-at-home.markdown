@@ -1,8 +1,8 @@
 ---
 layout: post
 slug: "1893-09-01-pasteur-at-home"
-title: "PASTEUR AT HOME."
-subtitle: "WITH AN ACCOUNT OF THE WORK DONE AT THE PASTEUR INSTITUTE IN PARIS."
+title: "PASTEUR AT HOME"
+subtitle: "WITH AN ACCOUNT OF THE WORK DONE AT THE PASTEUR INSTITUTE IN PARIS"
 author: "Ida M. Tarbell"
 date: 1893-09-01 00:00:00
 publication: "McClure's Magazine"
